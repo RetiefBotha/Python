@@ -6,6 +6,6 @@ table = pd.read_excel('C:\\Users\\rbotha.SYMOK\\Desktop\\Programming\\Copies for
                   index_col = 0,
                   usecols = "B",
                   convert_float = True)
-
+                 
 print(table)
 
