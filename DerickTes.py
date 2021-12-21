@@ -4,6 +4,6 @@ def factorial(number):
         product=product *(i+1)
     return product
 
-User_input=input('Please enter a pos number')
+user_input=input('Please enter a pos number')
 print(factorial(eval(user_input)))
  
